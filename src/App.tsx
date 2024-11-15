@@ -6,7 +6,7 @@ import CompHooks from "./components/CompHooks";
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      <header className="App-header123">
         <Counter />
         <CompHooks />
       </header>
